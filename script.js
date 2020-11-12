@@ -25,6 +25,22 @@ document.querySelector('.close-modal').   addEventListener('click',function(){
 {
     document.querySelector('.gridcontainer').classList.remove('hidden')
 })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // const days=[
 //     'Sunday',
 //     'Monday',
